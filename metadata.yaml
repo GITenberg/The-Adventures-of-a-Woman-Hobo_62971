@@ -1,0 +1,25 @@
+_repo: The-Adventures-of-a-Woman-Hobo_62971
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynn, Ethel
+    birthdate: 1881
+    gutenberg_agent_id: '52203'
+    url: http://www.gutenberg.org/2009/agents/52203
+description: Account of the experience of the author and her husband in traveling
+  by tandem bicycle and freight trains from Chicago to California.
+gutenberg_issued: '2020-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62971'
+  lccn: '17015672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'F590.3'
+- GITenberg
+title: The Adventures of a Woman Hobo
+url: http://www.gutenberg.org/ebooks/62971
